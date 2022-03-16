@@ -1,0 +1,92 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.idates {
+  font-size: 11px;
+  font-style: normal;
+  color: #666;
+  padding-top: 4px;
+  font-family: NotoSans;
+  display: block;
+
+}
+
+.ItemSummary {
+  font-size: 12px;
+  font-weight: bold;
+  color: #666;
+  font-family: NotoSans;
+  display: block;
+  padding: 3px;
+  line-height: 15px;
+  cursor: pointer;
+  background-color: white;
+}
+.rui-card .rui-card-right-side {
+    width: 50px;
+    text-align: right;
+}
+
+.itemstate {
+  font-size: 14px!important;
+  font-weight: bold;
+  font-family: NotoSans;
+  display: block;
+  padding: 3px;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+  margin: 6px;
+}
+
+.done {
+  color: green;
+  text-align: center;
+}
+
+.atrisk {
+  color: #FAD200;
+}
+
+.willnotcomplete {
+  color: #EE1C25;
+}
+
+.dependency {
+  font-size: 10px;
+  font-weight: bold;
+  color: #666;
+  font-family: NotoSans;
+  display: block;
+  padding: 3px;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+
+}
+
+.dependencycomponent {
+  position: absolute;
+  x:0;
+  y:0;
+  left: 0px;
+  top: 0px;
+  z-index: inherit;
+}
